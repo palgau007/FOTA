@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "filename": "STM32_FW.bin",
+    "device": "STM32F105RBT6",
+    "flash_address": "0x08004000",
+    "size": 203440,
+    "crc32": "0xD12C4C85",
+    "sha256": "d9bc8f882ab97a89a71643f2d51c598d6dbbf8ab92d18ed0c4f0463eedb3649e",
+    "build_date": "2026-08-19",
+    "build_time": "14:59:04",
+    "build_id": "20260819_145904"
+}
